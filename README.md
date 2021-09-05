@@ -1,0 +1,1 @@
+This is Anja's first git project!
